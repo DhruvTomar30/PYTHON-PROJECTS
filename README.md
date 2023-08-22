@@ -1,2 +1,2 @@
 # PYTHON-PROJECTS
-Included All  My python projects of class 12th and My 1st year of college....
+Employee Management System:- Where you can add the data of employees very easily. It includes Updation, Adding up the data, Deletion of data. It is a menu driven Project to makes it more effective and understandable.
